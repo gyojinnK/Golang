@@ -1,0 +1,17 @@
+D:\cSharp\week05_01\bin\Debug\net6.0-windows\week05_01.exe
+D:\cSharp\week05_01\bin\Debug\net6.0-windows\week05_01.deps.json
+D:\cSharp\week05_01\bin\Debug\net6.0-windows\week05_01.runtimeconfig.json
+D:\cSharp\week05_01\bin\Debug\net6.0-windows\week05_01.dll
+D:\cSharp\week05_01\bin\Debug\net6.0-windows\week05_01.pdb
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.csproj.AssemblyReference.cache
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.Form1.resources
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.csproj.GenerateResource.cache
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.AssemblyInfoInputs.cache
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.AssemblyInfo.cs
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.csproj.CoreCompileInputs.cache
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.dll
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\refint\week05_01.dll
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.pdb
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\week05_01.genruntimeconfig.cache
+D:\cSharp\week05_01\obj\Debug\net6.0-windows\ref\week05_01.dll
